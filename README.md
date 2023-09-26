@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Segele
-- 👀 I’m interested in JavaScipt
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a Front-End developer 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking forward to collaborate with anybody
 - 📫 How to reach me:  on emmansheg2002@gmail.com
 
